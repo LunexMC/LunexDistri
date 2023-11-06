@@ -1,24 +1,19 @@
 {
-  "version": "1.0.0",
+  "version": "3.0.0",
   "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-  },
   "servers": [
     {
       "id": "Lunex-1.16.5",
-      "name": "Lunex (Minecraft 1.16.5)",
-      "description": "Lunex Running Minecraft 1.16.5 (Forge v36.2.34)",
+      "name": "Lunex v2",
+      "description": "Serveur de Lunex",
       "icon": null,
-      "version": "1.0.0",
-      "address": "localhost:25565",
+      "version": "2.0.0",
+      "address": "91.197.6.179:25586",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1164929744047984672>",
+        "largeImageText": "Logo de Lunex",
+        "largeImageKey": "lunexlogo"
       },
       "mainServer": false,
       "autoconnect": false,
