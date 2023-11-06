@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -379,6 +379,26 @@
             "size": 49523,
             "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/detonation_beta_1.0.jar",
             "MD5": "33544d2cdbb00cd25f572a6166159f8d"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:2.14.9@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1322894,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/fancymenu_forge_2.14.9_MC_1.16.2-1.16.5.jar",
+            "MD5": "2c007b61ee2b87f360c2109130efea27"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.6.1@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 624279,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/konkrete_forge_1.6.1-3_MC_1.20.2.jar",
+            "MD5": "f9a2347caf4032ea23bcc3e24dbf725e"
           }
         },
         {
