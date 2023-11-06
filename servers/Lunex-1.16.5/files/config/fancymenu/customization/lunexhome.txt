@@ -1,0 +1,161 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 79
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 414fede6-b89a-4e6b-840b-06c3e22882af1698483666456
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 4d4e4dec-f964-425b-bc81-c469f8ac69c51698483666474
+  y = 198
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 198
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 7fd8af16-bb8a-4dd4-8f90-f59512186e3e1698483666474
+  y = 220
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 316
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = acae8626-f109-4d7a-b5f0-33d6c394af581698483666474
+  y = 160
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 76
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 2c90b6f2-829c-45ba-94d2-d3592c22b17d1698483666475
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = true
+  x = 88
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 6eae4ace-ba43-4cc1-bf17-4d5fd0d13fd81698483666475
+  y = 80
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;91.197.6.179:25586%btnaction_splitter_fm%
+  x = -102
+  width = 202
+  action = addbutton
+  actionid = b215e386-3172-4522-b385-78cf03ba7d0a1698483722192
+  y = 6
+  label = Se connecter a Lunex
+  height = 20
+}
+
+customization {
+  path = lunexlogo.png
+  orientation = top-centered
+  x = -97
+  width = 194
+  action = addtexture
+  actionid = 65efd1f4-1092-4ee4-a809-f021a599ea461698484272539
+  y = 33
+  height = 64
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.lunexmc.fr/boutique%btnaction_splitter_fm%
+  x = 2
+  width = 98
+  action = addbutton
+  actionid = 0bcd9b3c-eeb5-4d6c-a2a2-102406085f391698492328998
+  y = 44
+  label = Boutique
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/5yWAFRNcaA%btnaction_splitter_fm%
+  x = -101
+  width = 98
+  action = addbutton
+  actionid = 74145bb0-ef0e-49dd-9987-fbea3eecee241698492398975
+  y = 44
+  label = Discord
+  height = 20
+}
+
