@@ -402,6 +402,16 @@
           }
         },
         {
+          "id": "net.mcreator.lunexmod:lunex_mod:1.0.0@jar",
+          "name": "Lunex Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 98422,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/LunexMod.jar",
+            "MD5": "d64af7a615f0ae3fc4000a7a5b20dd3e"
+          }
+        },
+        {
           "id": "com.wynprice.secretrooms:secretroomsmod:1.16.5-1.1.4@jar",
           "name": "Secret Rooms 6",
           "type": "ForgeMod",
