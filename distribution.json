@@ -458,9 +458,9 @@
           "name": "lunexhome.txt",
           "type": "File",
           "artifact": {
-            "size": 3493,
+            "size": 3657,
             "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/files/config/fancymenu/customization/lunexhome.txt",
-            "MD5": "198aa961470f9fe20bd56b93189d8d22",
+            "MD5": "31d94098c3dca4ba39bf57be2c0d20fd",
             "path": "config/fancymenu/customization/lunexhome.txt"
           }
         },

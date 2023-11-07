@@ -19,11 +19,6 @@ customization {
 }
 
 customization {
-  identifier = %id=376322%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = hidebutton
 }
@@ -107,15 +102,16 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
+  orientation_element = 74145bb0-ef0e-49dd-9987-fbea3eecee241698492398975
   buttonaction = joinserver;91.197.6.179:25586%btnaction_splitter_fm%
-  x = -102
-  width = 202
+  x = 0
+  width = 200
   action = addbutton
   actionid = b215e386-3172-4522-b385-78cf03ba7d0a1698483722192
-  y = 6
+  y = -36
   label = Se connecter a Lunex
   height = 20
 }
@@ -132,29 +128,31 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
   buttonaction = openlink;https://www.lunexmc.fr/boutique%btnaction_splitter_fm%
-  x = 2
+  x = 0
   width = 98
   action = addbutton
   actionid = 0bcd9b3c-eeb5-4d6c-a2a2-102406085f391698492328998
-  y = 44
+  y = -23
   label = Boutique
   height = 20
 }
 
 customization {
-  orientation = mid-centered
+  orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
   buttonaction = openlink;https://discord.gg/5yWAFRNcaA%btnaction_splitter_fm%
-  x = -101
+  x = 0
   width = 98
   action = addbutton
   actionid = 74145bb0-ef0e-49dd-9987-fbea3eecee241698492398975
-  y = 44
+  y = -23
   label = Discord
   height = 20
 }
