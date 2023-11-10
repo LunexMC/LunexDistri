@@ -447,9 +447,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 129,
+            "size": 183,
             "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "b603876da1376765b98099c0bf623bef",
+            "MD5": "4b3df86a907bbab09f87d2b2779a51d2",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -462,6 +462,17 @@
             "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/files/config/fancymenu/customization/lunexhome.txt",
             "MD5": "31d94098c3dca4ba39bf57be2c0d20fd",
             "path": "config/fancymenu/customization/lunexhome.txt"
+          }
+        },
+        {
+          "id": "lunexpause.txt",
+          "name": "lunexpause.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1087,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/files/config/fancymenu/customization/lunexpause.txt",
+            "MD5": "e0f92ef04e0b047453fc78cb69004e6f",
+            "path": "config/fancymenu/customization/lunexpause.txt"
           }
         },
         {
