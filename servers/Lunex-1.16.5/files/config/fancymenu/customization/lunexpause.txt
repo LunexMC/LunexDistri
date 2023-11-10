@@ -1,0 +1,47 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.IngameMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_options_button
+  buttonaction = quitgame%btnaction_splitter_fm%
+  x = 0
+  width = 204
+  action = addbutton
+  actionid = f78b6d03-e6eb-41a1-9af0-6c7cf6360aef1699631574115
+  y = 24
+  label = Quitter Lunex
+  height = 20
+}
+
+customization {
+  path = lunexlogo.png
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = 0
+  width = 204
+  action = addtexture
+  actionid = f61299ff-0ac9-4e98-b7d2-6f13f953b1eb1699631715953
+  y = -96
+  height = 68
+}
+
