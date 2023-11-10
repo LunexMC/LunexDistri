@@ -584,6 +584,17 @@
             "MD5": "b2b24fe3f24d4c6a02a3990c64d25c87",
             "path": "lunexlogo.png"
           }
+        },
+        {
+          "id": "OptiFine_1.16.5_HD_U_G8_MOD.jar",
+          "name": "OptiFine_1.16.5_HD_U_G8_MOD.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5520538,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/files/mods/OptiFine_1.16.5_HD_U_G8_MOD.jar",
+            "MD5": "be53d6cf1decb2cfa1cbda0ec48748d4",
+            "path": "mods/OptiFine_1.16.5_HD_U_G8_MOD.jar"
+          }
         }
       ]
     }
