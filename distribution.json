@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "Lunex v2",
       "description": "Serveur de Lunex",
       "icon": null,
-      "version": "2.0.1",
+      "version": "2.0.2",
       "address": "91.197.6.179:25586",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -406,9 +406,9 @@
           "name": "Lunex Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 98038,
-            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/LunexMod-v1.1.jar",
-            "MD5": "71c3130d46db5c1edf2dcb3bc215b442"
+            "size": 97962,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/LunexMod_1.6.jar",
+            "MD5": "5f76a2cbc30f5521c479770d1fc37c09"
           }
         },
         {
