@@ -436,9 +436,9 @@
           "name": "Lunex Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 97962,
-            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/LunexMod_1.6.jar",
-            "MD5": "5f76a2cbc30f5521c479770d1fc37c09"
+            "size": 97662,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/LunexMod_v2.jar",
+            "MD5": "d97bddfc34016bdf2ba4157b2bfcd0f4"
           }
         },
         {
