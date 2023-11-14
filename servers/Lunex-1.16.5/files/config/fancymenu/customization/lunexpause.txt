@@ -37,11 +37,11 @@ customization {
   path = lunexlogo.png
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
-  x = 0
-  width = 204
+  x = 53
+  width = 99
   action = addtexture
   actionid = f61299ff-0ac9-4e98-b7d2-6f13f953b1eb1699631715953
-  y = -96
-  height = 68
+  y = -41
+  height = 33
 }
 
