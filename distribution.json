@@ -11,7 +11,7 @@
       "address": "91.197.6.179:25586",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "1164929744047984672>",
+        "shortId": "1164929744047984672",
         "largeImageText": "Logo de Lunex",
         "largeImageKey": "lunexlogo"
       },
@@ -409,6 +409,19 @@
             "size": 9414280,
             "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/required/ImmersiveEngineering-1.16.5-5.1.0-148.jar",
             "MD5": "834eb9edbfc3136ab5b14983fef05275"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:7.8.0.1009@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 839446,
+            "url": "https://lunexmc.github.io/LunexDistri/servers/Lunex-1.16.5/forgemods/optionalon/jei-1.16.5-7.8.0.1009.jar",
+            "MD5": "6c7827e443f483cc5e94aaff7c694901"
+          },
+          "required": {
+            "value": false
           }
         },
         {
