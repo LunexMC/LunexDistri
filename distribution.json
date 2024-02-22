@@ -1,5 +1,10 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
+  "discord": {
+    "clientId": "1164930642925068378",
+    "smallImageText": "Logo de Lunex",
+    "smallImageKey": "logogradient"
+  },
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -11,9 +16,9 @@
       "address": "91.197.6.179:25586",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "1164929744047984672",
+        "shortId": "Lunex",
         "largeImageText": "Logo de Lunex",
-        "largeImageKey": "lunexlogo"
+        "largeImageKey": "logogradient"
       },
       "mainServer": true,
       "autoconnect": false,
