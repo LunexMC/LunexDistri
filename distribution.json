@@ -11,7 +11,7 @@
       "id": "Lunex-1.16.5",
       "name": "Lunex v2",
       "description": "Serveur de Lunex",
-      "icon": null,
+      "icon": "https://media.discordapp.net/attachments/1121745395706507274/1177309873365581896/logogradient.png",
       "version": "2.0.1",
       "address": "91.197.6.179:25586",
       "minecraftVersion": "1.16.5",
