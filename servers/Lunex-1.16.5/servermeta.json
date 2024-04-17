@@ -1,17 +1,17 @@
 {
-  "$schema": "file:///C:/Users/charl/Documents/LunexDistri/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/charl/Documents/Github/LunexDistri/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "Lunex (Minecraft 1.16.5)",
-    "description": "Lunex Running Minecraft 1.16.5 (Forge v36.2.34)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "version": "2.0.1",
+    "name": "Lunex v2",
+    "description": "Serveur de Lunex",
+    "icon": "https://lunexmc.github.io/LunexDistri/LogoLunex.png",
+    "address": "91.197.6.179:25586",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "Lunex",
+      "largeImageText": "Logo de Lunex",
+      "largeImageKey": "logogradient"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {
